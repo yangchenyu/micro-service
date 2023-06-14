@@ -1,9 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T08:21:28.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="UPXGLuaidxfo8dykiesW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T13:57:48.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8JElNgoXDtpbxLBqgmOR" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WV2fpILAtteC5eLeZNfp">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="snPjC77-doVzwUxpXWKq-8" value="物联网平台（IoT）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="176" y="142" width="901" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-23" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="228" y="187" width="729" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-14" value="通信协议" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="176" y="497" width="901" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-11" value="设备" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="176" y="579" width="901" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-2" value="设备接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-4" value="设备分组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="snPjC77-doVzwUxpXWKq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-7" value="设备网关/适配器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="405" width="729" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-9" value="无人机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="593" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-12" value="机库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="593" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-13" value="IP Camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="593" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-15" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="512" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-16" value="HTTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="512" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-17" value="websocket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="728" y="512" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-18" value="FTP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="512" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-19" value="数据持久化" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="997" y="361" width="60" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-20" value="设备运行管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-21" value="视频接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-22" value="图片接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-25" value="各类感知数据接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-26" value="数据转发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snPjC77-doVzwUxpXWKq-27" value="协议适配转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="229" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
