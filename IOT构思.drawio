@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T13:57:48.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8JElNgoXDtpbxLBqgmOR" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T14:05:22.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9Qn-prVh3gBO6H0JKcVe" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WV2fpILAtteC5eLeZNfp">
     <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="snPjC77-doVzwUxpXWKq-8" value="物联网平台（IoT）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="176" y="142" width="901" height="349" as="geometry" />
+          <mxGeometry x="176" y="182" width="901" height="309" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-23" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="228" y="187" width="729" height="204" as="geometry" />
+          <mxGeometry x="228" y="201" width="729" height="190" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-14" value="通信协议" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="176" y="497" width="901" height="80" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-11" value="设备" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="176" y="579" width="901" height="80" as="geometry" />
+          <mxGeometry x="176" y="582" width="901" height="80" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-2" value="设备接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="303" width="120" height="60" as="geometry" />
@@ -31,13 +31,13 @@
           <mxGeometry x="228" y="405" width="729" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-9" value="无人机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="593" width="120" height="50" as="geometry" />
+          <mxGeometry x="202" y="596" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-12" value="机库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="593" width="120" height="50" as="geometry" />
+          <mxGeometry x="335" y="596" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-13" value="IP Camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="714" y="593" width="120" height="50" as="geometry" />
+          <mxGeometry x="714" y="596" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-15" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="512" width="120" height="50" as="geometry" />
@@ -48,7 +48,7 @@
         <mxCell id="snPjC77-doVzwUxpXWKq-17" value="websocket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="728" y="512" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="snPjC77-doVzwUxpXWKq-18" value="FTP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="snPjC77-doVzwUxpXWKq-18" value="RTSP/RTMP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865" y="512" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snPjC77-doVzwUxpXWKq-19" value="数据持久化" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
