@@ -1,62 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T08:18:09.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tU5FAmRyVXpBo-S2xfiS" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T03:08:19.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OHLdl6mURB77P7yNLJFm" version="21.3.8" type="github">
   <diagram name="第 1 页" id="kXJkKNLRFB6s-z3zATFX">
-    <mxGraphModel dx="1834" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kBr5If5w4r47gpBELAyC-1" value="数据中台" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-1" value="数据中台" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="501" y="178" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-2" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-2" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="471" y="118" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-3" value="数据检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-3" value="数据检索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627" y="118" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-4" value="数据概览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-4" value="数据概览" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="118" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-5" value="数据接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-5" value="数据接入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-6" value="数据分类建仓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-6" value="数据分类建仓" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-7" value="数据订阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-7" value="数据订阅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="591" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="39" y="395" as="sourcePoint" />
             <mxPoint x="319" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-10" value="AI中台数据识别结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-10" value="AI中台数据识别结果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-35" y="396" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-11" value="AI中台数据badcase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-11" value="AI中台数据badcase" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-38" y="437" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-12" value="AI中台数据&lt;br&gt;研判后的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-12" value="AI中台数据&lt;br&gt;研判后的数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-38" y="478" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-13" value="视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-13" value="视频" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="396" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-14" value="图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-14" value="图片" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="437" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-15" value="天气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-15" value="天气" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269" y="402" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-16" value="红外" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-16" value="红外" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="442" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-17" value="气体探测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-17" value="气体探测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="485" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBr5If5w4r47gpBELAyC-18" value="音频数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBr5If5w4r47gpBELAyC-18" value="音频数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="262" y="522" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E8k4cqZ7rRdg02oFOWMx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-279" y="-65" width="402" height="402" as="geometry" />
+        </mxCell>
+        <mxCell id="E8k4cqZ7rRdg02oFOWMx-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-226" y="-4" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E8k4cqZ7rRdg02oFOWMx-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-4" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E8k4cqZ7rRdg02oFOWMx-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="-6" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
