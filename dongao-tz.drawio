@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T04:56:24.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="k-MD09V57Pu22tyWKR2H" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T04:57:32.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="T-3YDUmZ1QVoL6Gjm2ue" version="21.4.0" type="github">
   <diagram name="第 1 页" id="xIxhzjUZgAmlJQ-Zlbee">
     <mxGraphModel dx="2605" dy="1496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="WDeUEpoGClxjb2tYxeoV-27" value="CIM+GIS平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="571" y="204" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WDeUEpoGClxjb2tYxeoV-28" value="指挥调度中心（大屏）" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="WDeUEpoGClxjb2tYxeoV-28" value="大屏" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-128" width="822" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WDeUEpoGClxjb2tYxeoV-29" value="用&lt;br&gt;户&lt;br&gt;端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
         <mxCell id="WDeUEpoGClxjb2tYxeoV-30" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-126" y="-218" width="872" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="WDeUEpoGClxjb2tYxeoV-31" value="通用应用" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="WDeUEpoGClxjb2tYxeoV-31" value="感知应用" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-87.5" width="244" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WDeUEpoGClxjb2tYxeoV-32" value="WEB端" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
