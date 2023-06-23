@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T10:01:08.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="QaskbRu5BF8z45Bor17t" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T10:03:40.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="StIhtr8v2kXk8DPV7DfY" version="21.5.0" type="github">
   <diagram name="第 1 页" id="qgnPjLoxKlH5nG3LD3r0">
     <mxGraphModel dx="1434" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="6TijYfAXvn3jRtj2vqhA-4" value="驱&lt;br&gt;动&lt;br&gt;层" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="197" y="318.5" width="43" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="6TijYfAXvn3jRtj2vqhA-7" value="&lt;b&gt;IOT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;opacity=30;glass=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="6TijYfAXvn3jRtj2vqhA-7" value="&lt;b&gt;IOT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;opacity=30;glass=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="255" y="320" width="869" height="119" as="geometry" />
         </mxCell>
         <mxCell id="6TijYfAXvn3jRtj2vqhA-8" value="平&lt;br&gt;台&lt;br&gt;层" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
@@ -84,75 +84,6 @@
         </mxCell>
         <mxCell id="6TijYfAXvn3jRtj2vqhA-35" value="大屏" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="927" y="-219" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-1" value="本期新增" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="-230" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-3" value="一期建设" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="-110" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-5" value="本期优化/扩建" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="-170" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-27" value="" style="group;dashed=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="267" y="462.5" width="218" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-6" value="飞行设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-27">
-          <mxGeometry width="218" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-7" value="无人机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-27">
-          <mxGeometry x="13" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-8" value="无人机机库" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-27">
-          <mxGeometry x="13" y="63" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-9" value="无人机指挥车" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-27">
-          <mxGeometry x="114" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-10" value="无人机反制" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-27">
-          <mxGeometry x="114" y="62" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="498" y="462.5" width="616" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-11" value="无人机挂载设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry width="616" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-12" value="四光云台相机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="13" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-13" value="气体探测" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="113" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-17" value="探照灯" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="213" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-18" value="喊话器" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="313" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-19" value="降落伞" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="413" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-20" value="多挂载" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="513" y="27" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-21" value="双光云台相机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="11" y="67" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-22" value="激光雷达" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="111" y="67" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-23" value="激光雷达" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="212" y="67" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-24" value="正射航测相机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="312" y="67" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-25" value="水环境监测" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="413" y="67" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Pg3nfauNyvNF7lVv-B0n-26" value="......." style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-28">
-          <mxGeometry x="513" y="67" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Pg3nfauNyvNF7lVv-B0n-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="282" y="-103.5" width="276" height="188" as="geometry" />
@@ -228,6 +159,75 @@
         </mxCell>
         <mxCell id="Pg3nfauNyvNF7lVv-B0n-33" value="政&lt;br&gt;法&lt;br&gt;委" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-50">
           <mxGeometry x="353" y="11.5" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1140" y="-231" width="170" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-1" value="本期新增" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-52">
+          <mxGeometry x="28" y="18" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-3" value="一期建设" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-52">
+          <mxGeometry x="28" y="138" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-5" value="本期优化/扩建" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-52">
+          <mxGeometry x="28" y="78" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-51" value="颜色说明" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;opacity=30;verticalAlign=bottom;" vertex="1" parent="Pg3nfauNyvNF7lVv-B0n-52">
+          <mxGeometry width="170" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-6" value="飞行设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="267" y="462.5" width="218" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-7" value="无人机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="280" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-8" value="无人机机库" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="280" y="525.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-9" value="无人机指挥车" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="381" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-10" value="无人机反制" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="381" y="524.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-11" value="无人机挂载设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="498" y="462.5" width="616" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-12" value="四光云台相机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="511" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-13" value="气体探测" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="611" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-17" value="探照灯" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="711" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-18" value="喊话器" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="811" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-19" value="降落伞" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="911" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-20" value="多挂载" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="489.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-21" value="双光云台相机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="509" y="529.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-22" value="激光雷达" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="609" y="529.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-23" value="激光雷达" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="710" y="529.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-24" value="正射航测相机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="810" y="529.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-25" value="水环境监测" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="911" y="529.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg3nfauNyvNF7lVv-B0n-26" value="......." style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="529.5" width="90" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
