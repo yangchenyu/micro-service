@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T10:57:15.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="jHFTIBeOTomkYaOuemBK" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T11:04:53.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="uwdk9gdGu_5CDGvSV8SM" version="21.5.0" type="github">
   <diagram name="第 1 页" id="qgnPjLoxKlH5nG3LD3r0">
     <mxGraphModel dx="1434" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
         <mxCell id="6TijYfAXvn3jRtj2vqhA-14" value="设备管理" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="978" y="349.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6TijYfAXvn3jRtj2vqhA-15" value="GSP&lt;br&gt;统一对象存储平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6TijYfAXvn3jRtj2vqhA-15" value="非结构化数据存储平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="781" y="192" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6TijYfAXvn3jRtj2vqhA-16" value="UVER&lt;br&gt;无人机管理平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="6TijYfAXvn3jRtj2vqhA-16" value="无人机飞行管理平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="267" y="190" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6TijYfAXvn3jRtj2vqhA-17" value="应&lt;br&gt;用&lt;br&gt;层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;gradientColor=#ea6b66;" parent="1" vertex="1">
@@ -58,10 +58,10 @@
         <mxCell id="6TijYfAXvn3jRtj2vqhA-20" value="运维管理系统" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="280" y="92" width="821" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6TijYfAXvn3jRtj2vqhA-25" value="低空无人机&lt;br&gt;AI中台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6TijYfAXvn3jRtj2vqhA-25" value="低空AI中台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="439" y="190" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6TijYfAXvn3jRtj2vqhA-26" value="数据中台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6TijYfAXvn3jRtj2vqhA-26" value="低空数据中台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="610" y="192" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6TijYfAXvn3jRtj2vqhA-27" value="CIM+GIS平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
