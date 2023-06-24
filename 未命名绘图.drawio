@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T07:36:12.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" version="21.5.0" etag="_yC7w_IVDNY0nAHc7Kwz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T07:58:55.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Gwun2aVBoBf1ZMYwtcey" version="21.5.0" type="github">
   <diagram name="第 1 页" id="DyGkie6XZRxILUX4rRDa">
-    <mxGraphModel>
+    <mxGraphModel dx="1834" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-2" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;fontSize=18;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="547" width="804" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;opacity=30;" edge="1" parent="1" source="6SExhagwjq6Gu3xCyHyG-3" target="6SExhagwjq6Gu3xCyHyG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-3" value="AI中台&lt;br&gt;检测结果" style="rounded=1;whiteSpace=wrap;html=1;opacity=60;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="65" y="584" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-4" value="无人机、机库、载荷等感知设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=60;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="448" y="581" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.726;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;opacity=30;" edge="1" parent="1" source="6SExhagwjq6Gu3xCyHyG-5" target="6SExhagwjq6Gu3xCyHyG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-5" value="IoT" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="348" y="378" width="440" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-6" value="数据中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="11" width="804" height="337" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-7" value="各类感知协议数据通信协议适配和转换" style="rounded=1;whiteSpace=wrap;html=1;opacity=60;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="411" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6SExhagwjq6Gu3xCyHyG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;opacity=30;" edge="1" parent="1" source="6SExhagwjq6Gu3xCyHyG-4" target="6SExhagwjq6Gu3xCyHyG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="569" as="sourcePoint" />
+            <mxPoint x="603" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
