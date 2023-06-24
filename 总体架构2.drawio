@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T05:19:14.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="G96yFSGN2LYv2cT_yZkg" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T06:20:58.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="empNGmdC2pJibkfS9K1V" version="21.5.0" type="github">
   <diagram name="第 1 页" id="qgnPjLoxKlH5nG3LD3r0">
     <mxGraphModel dx="1434" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="6TijYfAXvn3jRtj2vqhA-27" value="CIM+GIS平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="951" y="192" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6TijYfAXvn3jRtj2vqhA-28" value="指挥调度中心（大屏）" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="6TijYfAXvn3jRtj2vqhA-28" value="态势大屏" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="708" y="-146" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6TijYfAXvn3jRtj2vqhA-29" value="用&lt;br&gt;户&lt;br&gt;端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;gradientColor=#ea6b66;" parent="1" vertex="1">
