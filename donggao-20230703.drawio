@@ -1,6 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T10:35:42.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" version="21.5.2" etag="G4hqGHf-8RuKrbmBLuWP" type="github">
-  <diagram name="第 1 页" id="dKMGler52tXQYkUQm4DK">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-07-03T10:37:16.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="Dkqaczi33YGnNLCzvobk" version="21.5.2" type="github" pages="3">
+  <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
+    <mxGraphModel dx="1426" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-822AaaL5B67_Z9tuY06" name="应用架构">
+    <mxGraphModel dx="1426" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NJNL2cJP6WUwVLBHKOIs" name="业务流">
+    <mxGraphModel dx="1426" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
