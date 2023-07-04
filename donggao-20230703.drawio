@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T12:23:10.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="HdHC_eDI1A0K8-m9qukB" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-04T12:40:58.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="0nB1npTMbQR0nSebDHCk" version="21.5.2" type="github" pages="3">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2038" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -442,27 +442,57 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NJNL2cJP6WUwVLBHKOIs" name="业务流">
-    <mxGraphModel dx="1927" dy="1482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="1882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FPgiCfKVcj3GowBTw-3M-5" value="业务整体流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="55" y="-154" width="682" height="843" as="geometry" />
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-1" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="-363" width="10" height="819" as="geometry" />
         </mxCell>
-        <mxCell id="FPgiCfKVcj3GowBTw-3M-6" value="低空资源管理中心" style="swimlane;startSize=20;html=1;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="FPgiCfKVcj3GowBTw-3M-5">
-          <mxGeometry y="20" width="192" height="823" as="geometry" />
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-2" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="36" y="-361" width="10" height="819" as="geometry" />
         </mxCell>
-        <mxCell id="FPgiCfKVcj3GowBTw-3M-7" value="Lane 2" style="swimlane;startSize=20;html=1;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;container=0;" vertex="1" parent="FPgiCfKVcj3GowBTw-3M-5">
-          <mxGeometry x="192" y="20" width="120" height="823" as="geometry" />
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-3" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-362" width="10" height="819" as="geometry" />
         </mxCell>
-        <mxCell id="FPgiCfKVcj3GowBTw-3M-8" value="Lane 3" style="swimlane;startSize=20;html=1;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="FPgiCfKVcj3GowBTw-3M-5">
-          <mxGeometry x="312" y="20" width="130" height="823" as="geometry" />
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-4" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="686" y="-362" width="10" height="819" as="geometry" />
         </mxCell>
-        <mxCell id="FPgiCfKVcj3GowBTw-3M-15" value="Lane 3" style="swimlane;startSize=20;html=1;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="FPgiCfKVcj3GowBTw-3M-5">
-          <mxGeometry x="442" y="20" width="120" height="823" as="geometry" />
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-5" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="-387" width="321" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FPgiCfKVcj3GowBTw-3M-16" value="Lane 3" style="swimlane;startSize=20;html=1;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="FPgiCfKVcj3GowBTw-3M-5">
-          <mxGeometry x="562" y="20" width="120" height="823" as="geometry" />
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-7" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="369" y="-387" width="321" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-8" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-387" width="321" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-9" value="低空资源管理中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-422" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-10" value="低空运行管理中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="96" y="-422" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0TCSf3D0tlyI-GTWxIns-11" value="低空监测预警中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-422" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCYrg7Ve5XRYgPMXOu6-5" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-362" width="10" height="819" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCYrg7Ve5XRYgPMXOu6-6" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="694" y="-387" width="321" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCYrg7Ve5XRYgPMXOu6-7" value="低空飞行管理平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-422" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCYrg7Ve5XRYgPMXOu6-8" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="1336" y="-362" width="10" height="819" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCYrg7Ve5XRYgPMXOu6-9" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-387" width="321" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCYrg7Ve5XRYgPMXOu6-10" value="低空飞行管理平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="-422" width="217" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
