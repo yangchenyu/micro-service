@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T13:54:40.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="uPmIHyI74MBmoaBYTfLN" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-04T14:33:37.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="7f27DxDmyHXczV61nmrc" version="21.5.2" type="github" pages="4">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2038" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -702,6 +702,95 @@
         </mxCell>
         <mxCell id="n3m5rCBEP77q339bbkWY-53" value="数据采集和存储" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1354" y="-144" width="120" height="93" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2XflRbBTD-PrT5z59tbs" name="业务流2">
+    <mxGraphModel dx="2038" dy="920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-27" value="&lt;h1&gt;职能部门工作人员&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="28" width="206" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-28" value="&lt;h1&gt;职能部门领导&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="124" y="28" width="158" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-29" value="&lt;h1&gt;运营人员&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="424" y="31" width="125" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-229" y="72" width="834" height="988" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vbcsB38v5Kk8d70CM1Lb-32">
+          <mxGeometry width="276.15894039735093" height="988.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vbcsB38v5Kk8d70CM1Lb-32">
+          <mxGeometry x="278.92052980132445" width="276.15894039735093" height="988.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vbcsB38v5Kk8d70CM1Lb-32">
+          <mxGeometry x="557.8410596026489" width="276.15894039735093" height="988.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-2" value="" style="group" vertex="1" connectable="0" parent="vbcsB38v5Kk8d70CM1Lb-32">
+          <mxGeometry x="-90" y="158.08000000000004" width="920" height="128.44" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="0UrWLrjKUzd47ua4wVuu-2">
+          <mxGeometry x="3" y="108.68" width="920" height="19.760000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-4" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="0UrWLrjKUzd47ua4wVuu-2">
+          <mxGeometry width="40" height="108.68" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-315" y="90" width="920" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-33" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="0UrWLrjKUzd47ua4wVuu-1">
+          <mxGeometry y="110" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vbcsB38v5Kk8d70CM1Lb-34" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="0UrWLrjKUzd47ua4wVuu-1">
+          <mxGeometry width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-315" y="370" width="920" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-6" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="0UrWLrjKUzd47ua4wVuu-5">
+          <mxGeometry y="110" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrWLrjKUzd47ua4wVuu-7" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="0UrWLrjKUzd47ua4wVuu-5">
+          <mxGeometry width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-316" y="646" width="920" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-11" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="8B9YCLYvEoMdzxhiyz2x-10">
+          <mxGeometry y="110" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-12" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="8B9YCLYvEoMdzxhiyz2x-10">
+          <mxGeometry width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-316" y="504" width="920" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-14" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="8B9YCLYvEoMdzxhiyz2x-13">
+          <mxGeometry y="110" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-15" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="8B9YCLYvEoMdzxhiyz2x-13">
+          <mxGeometry width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-316" y="930" width="920" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-17" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="8B9YCLYvEoMdzxhiyz2x-16">
+          <mxGeometry y="110" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8B9YCLYvEoMdzxhiyz2x-18" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="8B9YCLYvEoMdzxhiyz2x-16">
+          <mxGeometry width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HfqC3O2xd4wbMD-PNuYV-1" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="904" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HfqC3O2xd4wbMD-PNuYV-2" value="低空资源管理中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="789" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
