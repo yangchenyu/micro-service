@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T13:25:32.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="uPm4vHKsX7SdaEL1hrT-" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-04T13:27:38.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="qvnggx9BHtoUjliWajY6" version="21.5.2" type="github" pages="3">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2038" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NJNL2cJP6WUwVLBHKOIs" name="业务流">
-    <mxGraphModel dx="2038" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2438" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,7 +495,13 @@
           <mxGeometry x="1076" y="-422" width="217" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ThOrj-PVBaCtByQEkZh1-1" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-354" y="54" width="1695" height="20" as="geometry" />
+          <mxGeometry x="-450" y="54" width="1791" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ThOrj-PVBaCtByQEkZh1-2" value="职能&lt;br style=&quot;font-size: 18px;&quot;&gt;部门&lt;br style=&quot;font-size: 18px;&quot;&gt;人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-211" width="60" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="n3m5rCBEP77q339bbkWY-1" value="运营&lt;br&gt;人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-395" y="201" width="60" height="132" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
