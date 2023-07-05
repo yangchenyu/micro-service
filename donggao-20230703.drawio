@@ -1,50 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T06:36:22.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="poch8gEBdbIjk9SZGCOj" version="21.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-05T07:32:26.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="xWnzXXzWPhwXLCxZgq5f" version="21.5.2" type="github" pages="5">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
-    <mxGraphModel dx="2038" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-1" value="标准规范体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#14446a;strokeColor=#B3B3B3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="-177" width="36" height="763" as="geometry" />
+          <mxGeometry x="-105" y="-177" width="36" height="857" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-3" value="东湖高新区 低空无人机平台总体建设方案" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B3B3B3;rounded=0;fillColor=#14446a;fontColor=#FFFFFF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-105" y="-241" width="1060" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-4" value="安全保障体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#14446a;strokeColor=#B3B3B3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-178" width="36" height="763" as="geometry" />
+          <mxGeometry x="875" y="-178" width="36" height="857" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-5" value="运营管理体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#14446a;strokeColor=#B3B3B3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="919" y="-178" width="36" height="762" as="geometry" />
+          <mxGeometry x="919" y="-178" width="36" height="858" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-6" value="感&lt;br style=&quot;font-size: 16px;&quot;&gt;知&lt;br style=&quot;font-size: 16px;&quot;&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="496" width="929" height="89" as="geometry" />
+          <mxGeometry x="-63" y="590" width="929" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-7" value="无人机" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="505" width="280" height="60" as="geometry" />
+          <mxGeometry x="-30" y="599" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-8" value="无人机挂载" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="579" y="507" width="280" height="60" as="geometry" />
+          <mxGeometry x="579" y="601" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-9" value="机巢" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="506" width="280" height="60" as="geometry" />
+          <mxGeometry x="275" y="600" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-10" value="传&lt;br&gt;输&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="402" width="929" height="89" as="geometry" />
+          <mxGeometry x="-63" y="496" width="929" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-13" value="低空无线网" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="417" width="280" height="60" as="geometry" />
+          <mxGeometry x="-30" y="511" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-14" value="核心网" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="579" y="416.5" width="280" height="60" as="geometry" />
+          <mxGeometry x="579" y="510.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-15" value="专网" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="417" width="280" height="60" as="geometry" />
+          <mxGeometry x="275" y="511" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-16" value="数&lt;br&gt;据&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-63" y="310" width="929" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-17" value="低空物联感知各类数据接入和传输" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="324.5" width="882" height="60" as="geometry" />
+          <mxGeometry x="-30" y="324.5" width="888" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-18" value="支&lt;br&gt;撑&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-63" y="149" width="929" height="159" as="geometry" />
@@ -136,11 +136,29 @@
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-62" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="722" y="-152" width="130" height="96" as="geometry" />
         </mxCell>
+        <mxCell id="vy2BD34TnuTuffAx-Q_C-1" value="设&lt;br&gt;施&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="403" width="929" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="vy2BD34TnuTuffAx-Q_C-2" value="计算资源池" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="417.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vy2BD34TnuTuffAx-Q_C-3" value="网络资源池" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="417.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vy2BD34TnuTuffAx-Q_C-4" value="存储资源池" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="417.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vy2BD34TnuTuffAx-Q_C-5" value="密码资源池" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="696" y="417.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vy2BD34TnuTuffAx-Q_C-6" value="安全资源池" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="417.5" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-822AaaL5B67_Z9tuY06" name="应用架构">
-    <mxGraphModel dx="1638" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -944,7 +962,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Cq363bQ1ZbztAwClw2vJ" name="部署架构图">
-    <mxGraphModel dx="2417" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
