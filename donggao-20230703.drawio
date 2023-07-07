@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T11:20:30.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="SWO-jJWERFwJb7zfVrmX" version="21.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-07T01:17:41.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="OVxpEA0CpBqkQFQRgtvt" version="21.5.2" type="github" pages="5">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2017" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,7 +351,7 @@
         <mxCell id="u_-WNFlX7n4f5odH8R6w-87" value="无人机飞行管理平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="763.5" y="166" width="227" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="u_-WNFlX7n4f5odH8R6w-88" value="审计日志、用户/组织/权限、统一认证" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;flipV=1;" parent="1" vertex="1">
+        <mxCell id="u_-WNFlX7n4f5odH8R6w-88" value="统一门户&lt;br&gt;(审计日志、用户/组织/权限、统一认证)" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="763.5" y="217.5" width="227" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="u_-WNFlX7n4f5odH8R6w-89" value="IoT平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;flipV=1;" parent="1" vertex="1">
