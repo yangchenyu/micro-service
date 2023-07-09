@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T08:45:22.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AcaNyUdQXpG9YCSDGCDN" version="21.5.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-09T08:53:35.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F7nOBujUheVNemPrn6bv" version="21.5.0" type="github" pages="5">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,13 +53,13 @@
           <mxGeometry x="-63" y="-14" width="929" height="159" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-39" value="空域管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="674" y="1" width="31" height="140" as="geometry" />
+          <mxGeometry x="723" y="1" width="31" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-40" value="低空服务门户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="785" y="1" width="31" height="140" as="geometry" />
+          <mxGeometry x="826" y="1" width="31" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-41" value="低空&lt;br&gt;感知&lt;br&gt;应用&lt;br&gt;场景" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="713" y="1" width="63" height="140" as="geometry" />
+          <mxGeometry x="759" y="1" width="63" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-42" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="489" y="158" width="250" height="140" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry x="1" y="15" width="103" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-32" value="低空监测预警中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="323" y="1" width="170" height="140" as="geometry" />
+          <mxGeometry x="274" y="1" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-28" value="低空资源管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="148" y="1" width="170" height="140" as="geometry" />
+          <mxGeometry x="123" y="1" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-26" value="低空态势感知中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-27" y="1" width="170" height="140" as="geometry" />
+          <mxGeometry x="-27" y="1" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-34" value="低空运行管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="498" y="1" width="170" height="140" as="geometry" />
+          <mxGeometry x="424" y="1" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PZcMeMh3Sl7zUGsd2KVH-50" value="用&lt;br&gt;户&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-63" y="-177" width="929" height="159" as="geometry" />
@@ -157,14 +157,14 @@
         <mxCell id="sLcQ8c_pJU7o9uxGhHuf-1" value="职能部门" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="117" y="-152" width="130" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="4-GLxIDItzbKyhMEaCr1-1" value="运维管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="826" y="1" width="31" height="140" as="geometry" />
+        <mxCell id="2nmU1sWY8-6sqUuwX18h-1" value="低空运维管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="573" y="1" width="145" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-822AaaL5B67_Z9tuY06" name="应用架构">
-    <mxGraphModel dx="1434" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
