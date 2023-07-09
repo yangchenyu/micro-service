@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T06:57:49.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="YdOxVnqsKwdh0-RJAGU8" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T07:03:10.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="eAZTQDVxMUx_P8uN7QzN" version="21.6.1" type="github">
   <diagram name="第 1 页" id="Qw-37vcta7j3B3pplBVY">
-    <mxGraphModel dx="2727" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,8 +145,32 @@
         <mxCell id="chnZoaWAUNlyMJ2FrWk6-47" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="858" y="255" width="151" height="100.75" as="geometry" />
         </mxCell>
-        <mxCell id="chnZoaWAUNlyMJ2FrWk6-48" value="数据层 DATA" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;verticalAlign=bottom;fontSize=24;fillColor=#d5e8d4;gradientColor=#97d077;opacity=10;" vertex="1" parent="1">
-          <mxGeometry x="-434" y="215" width="254" height="976" as="geometry" />
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-48" value="安全和负载" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;verticalAlign=bottom;fontSize=24;fillColor=#d5e8d4;gradientColor=#97d077;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="215" width="199" height="976" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-49" value="接口鉴权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1041" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-50" value="设备鉴权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="954" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-51" value="用户鉴权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="862" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-52" value="安&lt;br&gt;全&lt;br&gt;阀&lt;br&gt;防&lt;br&gt;火&lt;br&gt;墙" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="-366" y="232" width="77" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-53" value="负&lt;br&gt;载&lt;br&gt;均&lt;br&gt;衡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="232" width="77" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-54" value="安全和负载" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;verticalAlign=bottom;fontSize=24;fillColor=#d5e8d4;gradientColor=#97d077;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="1069" y="215" width="199" height="976" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-55" value="管&lt;br&gt;理&lt;br&gt;平&lt;br&gt;台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="232" width="77" height="412" as="geometry" />
+        </mxCell>
+        <mxCell id="chnZoaWAUNlyMJ2FrWk6-56" value="基&lt;br&gt;于&lt;br&gt;容&lt;br&gt;器&lt;br&gt;云&lt;br&gt;部&lt;br&gt;署" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="659.5" width="77" height="412" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
