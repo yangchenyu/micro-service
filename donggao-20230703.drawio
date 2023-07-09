@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T10:39:33.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8mXdd4pxVLapHrHnLiuZ" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-09T11:03:08.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N-ouAn-D4SxUS4d0D3gj" version="21.5.0" type="github" pages="6">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1163,11 +1163,86 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-mb9my7qkpao2ERRyBtl" name="总体数据流">
+  <diagram id="-mb9my7qkpao2ERRyBtl" name="数据流架构图">
     <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-1" value="感知设备" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;opacity=10;fillColor=#d5e8d4;gradientColor=#97d077;verticalAlign=bottom;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="184" y="620" width="836" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-2" value="非结构化数据(视频流、图片流)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;opacity=10;gradientColor=#97d077;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="243" y="644" width="302" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-3" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;opacity=10;gradientColor=#97d077;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="644" width="302" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-4" value="IoT平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;opacity=10;fillColor=#d5e8d4;gradientColor=#97d077;verticalAlign=bottom;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="184" y="447" width="836" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-5" value="低空数据中台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;opacity=10;fillColor=#d5e8d4;gradientColor=#97d077;verticalAlign=bottom;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="248" width="360" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-6" value="低空AI中台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;opacity=10;fillColor=#d5e8d4;gradientColor=#97d077;verticalAlign=bottom;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="184" y="248" width="360" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uoGBkRxEOrz0mAhrSiI2-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383" y="628" as="sourcePoint" />
+            <mxPoint x="383" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="802" y="645" as="sourcePoint" />
+            <mxPoint x="802" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="447" as="sourcePoint" />
+            <mxPoint x="370" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-10" value="视频流、图片、其他感知数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="405" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="847" y="447" as="sourcePoint" />
+            <mxPoint x="847" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uoGBkRxEOrz0mAhrSiI2-6" target="uoGBkRxEOrz0mAhrSiI2-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="547" y="317" as="sourcePoint" />
+            <mxPoint x="597" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-14" value="AI识别结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="544" y="323" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-15" value="各类感知数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="854" y="403" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-16" value="AI识别结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;opacity=10;gradientColor=#97d077;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="689" y="276" width="132" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-17" value="各类感知数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;opacity=10;gradientColor=#97d077;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="864" y="278" width="132" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-18" value="各类感知应用" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;opacity=10;fillColor=#d5e8d4;gradientColor=#97d077;verticalAlign=middle;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="184" y="40" width="836" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="247" as="sourcePoint" />
+            <mxPoint x="830" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uoGBkRxEOrz0mAhrSiI2-20" value="各类感知数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="195" width="102" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
