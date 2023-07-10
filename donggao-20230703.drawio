@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T14:42:19.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="awJoBIchxB_hSYBDkzM3" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-10T02:05:12.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ADH6p71mnAfhAG__rH5t" version="21.5.0" type="github" pages="9">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1351,6 +1351,17 @@
         </mxCell>
         <mxCell id="mf5k4xDfvtktH5vKyb44-4" value="&lt;h1&gt;倩总&lt;/h1&gt;&lt;p&gt;32023-07-09 反馈需求&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-245" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8zxwqPXtjLTv631IruZ3" name="内部激励">
+    <mxGraphModel dx="1834" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eqVfUSBa03mHVxoSzYA2-1" value="态势感知中心+运行管理中心&lt;br&gt;1、低于600W不增加奖金&lt;br&gt;2、高于800W增加1W奖金&lt;br&gt;3、高于1000W增加1.5~2W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" y="168" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
