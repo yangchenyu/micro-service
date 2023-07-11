@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T04:11:53.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yP6tr653ADxEZTrLT72k" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-11T00:29:21.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ku4OpV2jRT1VYN2ki6D1" version="21.5.0" type="github" pages="4">
   <diagram name="v1" id="sy28XgDb7c2ZBghyUJCW">
     <mxGraphModel dx="2234" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,7 +407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfljLAKl0W7rv5sBPin2" name="V2">
-    <mxGraphModel dx="2234" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -782,6 +782,190 @@
         </mxCell>
         <mxCell id="s02JLYSYHPigzZxCGXvv-135" value="飞行管理平台" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-629" y="-87" width="30" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FURppXNmg-8UX_bEnP1M" name="Uver私有化">
+    <mxGraphModel dx="2234" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-1" value="可插拔基础平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;opacity=30;glass=0;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="145" width="869" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-2" value="感&lt;br style=&quot;font-size: 16px;&quot;&gt;知&lt;br style=&quot;font-size: 16px;&quot;&gt;设&lt;br style=&quot;font-size: 16px;&quot;&gt;备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="454" width="43" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;opacity=30;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="454" width="872" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-4" value="驱&lt;br style=&quot;font-size: 16px;&quot;&gt;动&lt;br style=&quot;font-size: 16px;&quot;&gt;层" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="314.5" width="43" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;IoT物联感知平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;opacity=30;glass=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-677" y="316" width="869" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-6" value="平&lt;br style=&quot;font-size: 16px;&quot;&gt;台&lt;br style=&quot;font-size: 16px;&quot;&gt;层" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="143" width="43" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-7" value="GSP&lt;br&gt;统一存储平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-8" value="业务中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-665" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-9" value="业&lt;br style=&quot;font-size: 16px;&quot;&gt;务&lt;br style=&quot;font-size: 16px;&quot;&gt;应&lt;br style=&quot;font-size: 16px;&quot;&gt;用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;gradientColor=#ea6b66;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="-153" width="43" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;opacity=30;glass=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="-154" width="871" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-11" value="AI中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-12" value="数据中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-322.5" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-13" value="CIM+GIS平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-14" value="飞行设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="458.5" width="218" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-15" value="GDU无人机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-652" y="485.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-16" value="GDU无人机机库" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-554" y="485.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-17" value="无人机指挥车" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="489" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-18" value="无人机反制" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="524" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-19" value="无人机挂载设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="458.5" width="471" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-20" value="其它飞行设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="458.5" width="136" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-21" value="友商无人机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-652" y="524" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-22" value="友商无人机机库" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-554" y="524" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-23" value="GDU无人机挂载设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="489" width="434" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-24" value="友商无人机挂载设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="528" width="434" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-25" value="运&lt;br style=&quot;font-size: 16px;&quot;&gt;维&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理&lt;br style=&quot;font-size: 16px;&quot;&gt;系&lt;br style=&quot;font-size: 16px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-155" width="33" height="728" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-30" value="＋" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=middle;dashed=1;dashPattern=8 8;container=0;fontSize=26;fontColor=#453636;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-43" width="132" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-31" value="预警平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=32;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-152" y="-85" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eq58oJYSGPxpVOgL9LEW-32" value="Uver" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=32;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-637" y="-87" width="300" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fqw78aWHKu52wbwOQNeL" name="Uver云化">
+    <mxGraphModel dx="2234" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-1" value="可插拔基础平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;opacity=30;glass=0;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="145" width="869" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-2" value="感&lt;br style=&quot;font-size: 16px;&quot;&gt;知&lt;br style=&quot;font-size: 16px;&quot;&gt;设&lt;br style=&quot;font-size: 16px;&quot;&gt;备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="454" width="43" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-3" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;opacity=30;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="454" width="872" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-4" value="驱&lt;br style=&quot;font-size: 16px;&quot;&gt;动&lt;br style=&quot;font-size: 16px;&quot;&gt;层" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="314.5" width="43" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;IoT物联感知平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;opacity=30;glass=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-677" y="316" width="869" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-6" value="平&lt;br style=&quot;font-size: 16px;&quot;&gt;台&lt;br style=&quot;font-size: 16px;&quot;&gt;层" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="143" width="43" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-7" value="GSP&lt;br&gt;统一存储平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-8" value="业务中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-665" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-9" value="业&lt;br style=&quot;font-size: 16px;&quot;&gt;务&lt;br style=&quot;font-size: 16px;&quot;&gt;应&lt;br style=&quot;font-size: 16px;&quot;&gt;用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;gradientColor=#ea6b66;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-726" y="-153" width="43" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-10" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;opacity=30;glass=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="-154" width="871" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-11" value="AI中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-12" value="数据中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-322.5" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-13" value="CIM+GIS平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=18;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="186" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-14" value="飞行设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="458.5" width="218" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-15" value="GDU无人机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-652" y="485.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-16" value="GDU无人机机库" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-554" y="485.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-17" value="无人机指挥车" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="489" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-18" value="无人机反制" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="524" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-19" value="无人机挂载设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="458.5" width="471" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-20" value="其它飞行设备" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="458.5" width="136" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-21" value="友商无人机" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-652" y="524" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-22" value="友商无人机机库" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-554" y="524" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-23" value="GDU无人机挂载设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="489" width="434" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-24" value="友商无人机挂载设备" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="528" width="434" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-25" value="运&lt;br style=&quot;font-size: 16px;&quot;&gt;维&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理&lt;br style=&quot;font-size: 16px;&quot;&gt;系&lt;br style=&quot;font-size: 16px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-155" width="33" height="728" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-26" value="＋" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=middle;dashed=1;dashPattern=8 8;container=0;fontSize=26;fontColor=#453636;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-43" width="132" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-27" value="预警平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=32;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-152" y="-85" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DTyAjJqf44Erug5WZ9-i-28" value="Uver" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=32;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-637" y="-87" width="300" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
