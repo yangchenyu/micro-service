@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T01:06:37.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5et5iEQd-wBoKtVepdkF" version="21.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:25:16.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FAVeDlg2tiXed58m2Q78" version="21.5.0" type="github" pages="12">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1819,6 +1819,41 @@
         </mxCell>
         <mxCell id="qEM-ToHW8CGGzvsLfFVe-0" value="运维管理平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=middle;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontSize=14;" vertex="1" parent="nZiL83n9diEghpYF_I-b-1">
           <mxGeometry x="1085" y="-34" width="26" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2kS_qAQkKLsqF76um6BH" name="运维管理平台">
+    <mxGraphModel dx="2234" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pek3b.qingstor.com/kubesphere-docs/png/20190810073322.png;" vertex="1" parent="1">
+          <mxGeometry x="363" y="45" width="569.52" height="495.01" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-2" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;dashPattern=8 8;verticalAlign=bottom;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="592" width="809" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-3" value="Kubernetes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-387" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-4" value="私有云" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-258" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-5" value="公有云" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-6" value="虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-7" value="物理机" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="129" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-8" value="平台基础服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;dashPattern=8 8;verticalAlign=bottom;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="143" width="809" height="436" as="geometry" />
+        </mxCell>
+        <mxCell id="jhM-GGQA6gld4i59Ecx_-9" value="系统管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-452" y="165" width="116" height="391" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
