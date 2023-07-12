@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T09:48:10.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S-CGmD6x-sizcp3u3Yj5" version="21.6.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-12T11:08:35.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8eNuAyhpkBhN0X0j2VVN" version="21.6.2" type="github" pages="15">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2074" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1950,7 +1950,7 @@
         <mxCell id="KdIy2OAH6rh68NcAAw2--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdIy2OAH6rh68NcAAw2--10" target="KdIy2OAH6rh68NcAAw2--24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KdIy2OAH6rh68NcAAw2--10" value="委派处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KdIy2OAH6rh68NcAAw2--10" value="案件处置" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="308" y="67" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdIy2OAH6rh68NcAAw2--12" value="值班人员" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
@@ -1976,6 +1976,41 @@
         </mxCell>
         <mxCell id="KdIy2OAH6rh68NcAAw2--30" value="云上控制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="-213" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3HiM-9Hl-K_dL6d2vRwN" name="数据分析">
+    <mxGraphModel dx="2074" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYblVbEBRmgKMqVQOKyS-1" target="cYblVbEBRmgKMqVQOKyS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-1" value="数据中台" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-51" y="309" width="365" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYblVbEBRmgKMqVQOKyS-3" target="cYblVbEBRmgKMqVQOKyS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYblVbEBRmgKMqVQOKyS-3" target="cYblVbEBRmgKMqVQOKyS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYblVbEBRmgKMqVQOKyS-3" target="cYblVbEBRmgKMqVQOKyS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-3" value="数据分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71.5" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-5" value="各类告警发生地点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71.5" y="19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-7" value="各类告警发生时间段" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.5" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cYblVbEBRmgKMqVQOKyS-9" value="飞行/航线&lt;br&gt;各时段覆盖情况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128.5" y="159" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
