@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T05:24:52.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Xkjde0RJy0V3qaye5Dd5" version="21.6.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-07-12T05:26:09.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3L4trhy7m6DwjP_YENBB" version="21.6.2" type="github" pages="12">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2074" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1061,13 +1061,13 @@
         <mxCell id="RZbyJnM7KVHx-V31j1n0-36" value="" style="strokeColor=#6c8ebf;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_2;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-614" y="203" width="73" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RZbyJnM7KVHx-V31j1n0-37" value="低空态势&lt;br&gt;感知中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
+        <mxCell id="RZbyJnM7KVHx-V31j1n0-37" value="低空&lt;br&gt;态势感知中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-498" y="180" width="120" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="RZbyJnM7KVHx-V31j1n0-38" value="低空资源&lt;br&gt;管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
+        <mxCell id="RZbyJnM7KVHx-V31j1n0-38" value="低空&lt;br&gt;资源管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-241" y="180" width="120" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="RZbyJnM7KVHx-V31j1n0-39" value="低空监测&lt;br&gt;预警中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
+        <mxCell id="RZbyJnM7KVHx-V31j1n0-39" value="低空&lt;br&gt;监测预警中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-367" y="180" width="120" height="109" as="geometry" />
         </mxCell>
         <mxCell id="RZbyJnM7KVHx-V31j1n0-43" value="运维管理系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" vertex="1">
@@ -1160,7 +1160,7 @@
         <mxCell id="xvdmeDmxOOp4r5505EDS-2" value="代理服务器&lt;br&gt;F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="397" y="339" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pbyp_rNefKFc15ChHete-1" value="低空资源&lt;br&gt;运行中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="pbyp_rNefKFc15ChHete-1" value="低空&lt;br&gt;运行管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="-112" y="180" width="120" height="109" as="geometry" />
         </mxCell>
       </root>
