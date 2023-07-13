@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T11:08:35.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8eNuAyhpkBhN0X0j2VVN" version="21.6.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-13T05:03:53.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pDMd-4JIPW4hEtJrK4sm" version="21.6.2" type="github" pages="15">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2074" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1167,7 +1167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-mb9my7qkpao2ERRyBtl" name="数据流架构图">
-    <mxGraphModel dx="1674" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1253,7 +1253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zCVu-sA7HVVLipAZ7tm5" name="态势感知中心">
-    <mxGraphModel dx="2474" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1330,7 +1330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bdV31xbmMtC3o_gj63my" name="领导需求">
-    <mxGraphModel dx="2074" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1522,7 +1522,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="应用架构-new" id="QFzjfZur4C511QTAWLOF">
-    <mxGraphModel dx="1434" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nZiL83n9diEghpYF_I-b-0" />
         <mxCell id="nZiL83n9diEghpYF_I-b-1" parent="nZiL83n9diEghpYF_I-b-0" />
@@ -1858,10 +1858,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GQkPckolMQIT95jEPM-J-1" value="生命周期" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="532" width="198" height="80" as="geometry" />
+          <mxGeometry x="485.5" y="528" width="198" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-2" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="518" y="450" width="60" height="80" as="geometry" />
+          <mxGeometry x="559.5" y="446" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GQkPckolMQIT95jEPM-J-3" target="GQkPckolMQIT95jEPM-J-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1873,7 +1873,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-4" value="ERP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="74" y="275" width="80" height="80" as="geometry" />
+          <mxGeometry x="127" y="275" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQkPckolMQIT95jEPM-J-5" target="GQkPckolMQIT95jEPM-J-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1885,13 +1885,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-6" value="售后" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="444" y="87" width="80" height="80" as="geometry" />
+          <mxGeometry x="420" y="87" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.69;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GQkPckolMQIT95jEPM-J-7" target="GQkPckolMQIT95jEPM-J-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GQkPckolMQIT95jEPM-J-7" value="一体屏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="639" y="87" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zONbnSgve7_tWkSJBrVi-1" value="HTTP&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zONbnSgve7_tWkSJBrVi-2" value="MQ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zONbnSgve7_tWkSJBrVi-3" value="SDK" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zONbnSgve7_tWkSJBrVi-4" value="数据仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="392" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
