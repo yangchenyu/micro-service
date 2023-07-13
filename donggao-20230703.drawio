@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T05:03:53.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pDMd-4JIPW4hEtJrK4sm" version="21.6.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-13T09:00:13.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E9t4fGfPOufD8iMhXkul" version="21.6.2" type="github" pages="15">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="2074" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1904,6 +1904,18 @@
         </mxCell>
         <mxCell id="zONbnSgve7_tWkSJBrVi-4" value="数据仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="392" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0sRPpFhIhg8CYOVJrjl-1" value="数据推送" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0sRPpFhIhg8CYOVJrjl-2" value="数据推送" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298" y="149" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0sRPpFhIhg8CYOVJrjl-3" value="数据推送" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="169" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0sRPpFhIhg8CYOVJrjl-4" value="数据推送" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="175" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
