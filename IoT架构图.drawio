@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T07:08:12.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QXvJO6Cqyd7YG13TsONM" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-14T07:14:58.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Z2TGw3lv8UN-6QBc5mfy" version="21.6.2" type="github">
   <diagram name="第 1 页" id="Qw-37vcta7j3B3pplBVY">
-    <mxGraphModel dx="2369" dy="967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,32 +171,6 @@
         </mxCell>
         <mxCell id="chnZoaWAUNlyMJ2FrWk6-56" value="基&lt;br&gt;于&lt;br&gt;容&lt;br&gt;器&lt;br&gt;云&lt;br&gt;部&lt;br&gt;署" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#7fffd4;" parent="1" vertex="1">
           <mxGeometry x="1130" y="659.5" width="77" height="412" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="DbuB0KEzhiJzi_vLTHL0" name="第 2 页">
-    <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="3zyl9vwlk7k4fhhtRuLQ-1" value="OGST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="96" width="618" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="3zyl9vwlk7k4fhhtRuLQ-2" value="OKR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="262" width="618" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="3zyl9vwlk7k4fhhtRuLQ-3" value="OKR-A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9" y="503" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3zyl9vwlk7k4fhhtRuLQ-4" value="OKR-B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="503" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3zyl9vwlk7k4fhhtRuLQ-5" value="OKR-B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="503" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3zyl9vwlk7k4fhhtRuLQ-6" value="KPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="928" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
