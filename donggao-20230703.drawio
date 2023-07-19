@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T12:28:06.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qWGIdKa-65N0e8kgRDWw" version="21.6.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-19T12:34:59.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x4Sg_PVhFTQ0xzWgb7bH" version="21.6.3" type="github" pages="16">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2043,7 +2043,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="总体- V2" id="a8wCBQ2ZfOnngqVWnzxc">
-    <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WO7E-GU0Ey6h8_jeBKRn-0" />
         <mxCell id="WO7E-GU0Ey6h8_jeBKRn-1" parent="WO7E-GU0Ey6h8_jeBKRn-0" />
@@ -2207,7 +2207,7 @@
           <mxGeometry x="-29" y="-5" width="752" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ofvrHc8i2ah_86oqvYZS-1" value="容器云管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="WO7E-GU0Ey6h8_jeBKRn-1">
-          <mxGeometry x="836.5" y="-3" width="28" height="301" as="geometry" />
+          <mxGeometry x="837.5" y="-3" width="23.5" height="301" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
