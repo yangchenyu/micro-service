@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T13:18:36.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hlpbgCB3qJhYRcSQv15C" version="21.6.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-19T13:21:15.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3dLdM47PkASX6c4XJbWc" version="21.6.3" type="github" pages="17">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2137,7 +2137,7 @@
         <mxCell id="WO7E-GU0Ey6h8_jeBKRn-31" value="低空业务中台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=bottom;" vertex="1" parent="WO7E-GU0Ey6h8_jeBKRn-30">
           <mxGeometry width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="WO7E-GU0Ey6h8_jeBKRn-32" value="二维三维引擎、工作流引擎&lt;br&gt;审计日志&lt;br&gt;用户/组织/权限/认证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="WO7E-GU0Ey6h8_jeBKRn-30">
+        <mxCell id="WO7E-GU0Ey6h8_jeBKRn-32" value="二维三维引擎、工作流引擎&lt;br&gt;审计日志&lt;br&gt;无人机飞行管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="WO7E-GU0Ey6h8_jeBKRn-30">
           <mxGeometry x="1.9230769230769231" y="15" width="198.0769230769231" height="96" as="geometry" />
         </mxCell>
         <mxCell id="WO7E-GU0Ey6h8_jeBKRn-33" value="低空监测预警中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="WO7E-GU0Ey6h8_jeBKRn-1">
