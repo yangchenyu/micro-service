@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:26:59.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J5onEi2k8GvUEOHBTGYI" version="21.6.3" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:32:31.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NFGm0X_bpsbqwnle24qE" version="21.6.3" type="github" pages="20">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2455,7 +2455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="总体- V3" id="S1__UdgJ1r-CWb4ogHXH">
-    <mxGraphModel dx="2087" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wN92ehbLWwGZVkYpJjmd-0" />
         <mxCell id="wN92ehbLWwGZVkYpJjmd-1" parent="wN92ehbLWwGZVkYpJjmd-0" />
@@ -2537,13 +2537,13 @@
         <mxCell id="wN92ehbLWwGZVkYpJjmd-33" value="低空监测预警中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="273" y="37" width="148" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wN92ehbLWwGZVkYpJjmd-34" value="低空资源管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
+        <mxCell id="wN92ehbLWwGZVkYpJjmd-34" value="低空资源共享中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="122" y="37" width="148" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wN92ehbLWwGZVkYpJjmd-35" value="低空态势感知中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="-29" y="37" width="148" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wN92ehbLWwGZVkYpJjmd-36" value="低空运行管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
+        <mxCell id="wN92ehbLWwGZVkYpJjmd-36" value="低空运营管理中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#89beb2;fontColor=#FFFFFF;glass=0;shadow=0;verticalAlign=middle;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="424" y="37" width="148" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wN92ehbLWwGZVkYpJjmd-37" value="用&lt;br&gt;户&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#ded38c;align=left;fillStyle=auto;spacingLeft=4;fontColor=#FFFFFF;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
@@ -2609,14 +2609,14 @@
         <mxCell id="hToLLEldBJhPeoHGcNIt-4" value="低空物联网平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="324.5" y="179" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="hToLLEldBJhPeoHGcNIt-11" value="无人机飞行&lt;br&gt;管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
+        <mxCell id="hToLLEldBJhPeoHGcNIt-11" value="低空飞行&lt;br&gt;管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="590.0037062937063" y="179" width="130" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="应用架构-V3" id="yVP8WKBVPczrjVfB6fsk">
-    <mxGraphModel dx="1687" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ow6pytZyWd8up4s1LYMY-0" />
         <mxCell id="Ow6pytZyWd8up4s1LYMY-1" parent="Ow6pytZyWd8up4s1LYMY-0" />
@@ -2876,7 +2876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署架构图-V3" id="RC_nBZbLznXsemxGB2tB">
-    <mxGraphModel dx="2634" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BaV5HPy_Wk5dPmwK2H7n-0" />
         <mxCell id="BaV5HPy_Wk5dPmwK2H7n-1" parent="BaV5HPy_Wk5dPmwK2H7n-0" />
@@ -3025,6 +3025,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-699" y="340" as="sourcePoint" />
             <mxPoint x="-699.5" y="44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQDC26UJ6Av6OPnrhV31-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="BaV5HPy_Wk5dPmwK2H7n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-699.5" y="343" as="sourcePoint" />
+            <mxPoint x="-124.5" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
