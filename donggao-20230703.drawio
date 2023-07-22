@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T07:41:11.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Byr2KjAc9ON2CXp2QQC5" version="21.6.3" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-07-22T09:05:32.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nxxXMlmvak2yx4_VCWSg" version="21.6.3" type="github" pages="21">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-822AaaL5B67_Z9tuY06" name="应用架构">
-    <mxGraphModel dx="1434" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,7 +460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NJNL2cJP6WUwVLBHKOIs" name="业务流">
-    <mxGraphModel dx="2234" dy="1588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,7 +956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Cq363bQ1ZbztAwClw2vJ" name="部署架构图">
-    <mxGraphModel dx="2234" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1167,7 +1167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-mb9my7qkpao2ERRyBtl" name="数据流架构图">
-    <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2455,7 +2455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="总体- V3" id="S1__UdgJ1r-CWb4ogHXH">
-    <mxGraphModel dx="2087" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wN92ehbLWwGZVkYpJjmd-0" />
         <mxCell id="wN92ehbLWwGZVkYpJjmd-1" parent="wN92ehbLWwGZVkYpJjmd-0" />
@@ -2616,7 +2616,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="应用架构-V3" id="yVP8WKBVPczrjVfB6fsk">
-    <mxGraphModel dx="1687" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ow6pytZyWd8up4s1LYMY-0" />
         <mxCell id="Ow6pytZyWd8up4s1LYMY-1" parent="Ow6pytZyWd8up4s1LYMY-0" />
@@ -2876,7 +2876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署架构图-V3" id="RC_nBZbLznXsemxGB2tB">
-    <mxGraphModel dx="2634" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BaV5HPy_Wk5dPmwK2H7n-0" />
         <mxCell id="BaV5HPy_Wk5dPmwK2H7n-1" parent="BaV5HPy_Wk5dPmwK2H7n-0" />
@@ -3427,7 +3427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="数据流架构图-V3" id="rxiY9C3eJrdqpxWlN0K-">
-    <mxGraphModel dx="2634" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="e8nLj4XZ3zr6smZ2cBTf-0" />
         <mxCell id="e8nLj4XZ3zr6smZ2cBTf-1" parent="e8nLj4XZ3zr6smZ2cBTf-0" />
@@ -3470,7 +3470,7 @@
             <mxPoint x="-844" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="73Ub9sikNtI_bdSkmTt1-0" value="东&lt;br style=&quot;font-size: 18px;&quot;&gt;高&lt;br style=&quot;font-size: 18px;&quot;&gt;大&lt;br style=&quot;font-size: 18px;&quot;&gt;数&lt;br style=&quot;font-size: 18px;&quot;&gt;据&lt;br style=&quot;font-size: 18px;&quot;&gt;平&lt;br style=&quot;font-size: 18px;&quot;&gt;台" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0;fontSize=18;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-0" value="东&lt;br style=&quot;font-size: 18px;&quot;&gt;高&lt;br style=&quot;font-size: 18px;&quot;&gt;大&lt;br style=&quot;font-size: 18px;&quot;&gt;数&lt;br style=&quot;font-size: 18px;&quot;&gt;据&lt;br&gt;能&lt;br&gt;力&lt;br style=&quot;font-size: 18px;&quot;&gt;平&lt;br style=&quot;font-size: 18px;&quot;&gt;台" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0;fontSize=18;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
           <mxGeometry x="-843" y="18" width="120" height="619" as="geometry" />
         </mxCell>
         <mxCell id="1KUoFBN8j4PmgI2kpb3y-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="e8nLj4XZ3zr6smZ2cBTf-1" source="73Ub9sikNtI_bdSkmTt1-2" target="73Ub9sikNtI_bdSkmTt1-4">
@@ -3609,7 +3609,7 @@
           <mxGeometry x="-142" y="276" width="79" height="38" as="geometry" />
         </mxCell>
         <mxCell id="1KUoFBN8j4PmgI2kpb3y-19" value="数据接入、数据治理、数据仓库、数据服务" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
-          <mxGeometry x="-648.5" y="306" width="432" height="43" as="geometry" />
+          <mxGeometry x="-646" y="365" width="432" height="43" as="geometry" />
         </mxCell>
         <mxCell id="1KUoFBN8j4PmgI2kpb3y-20" value="设备接入&lt;br&gt;（协议适配）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
           <mxGeometry x="-652" y="489.5" width="101" height="38" as="geometry" />
