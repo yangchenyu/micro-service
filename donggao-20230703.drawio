@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:32:31.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NFGm0X_bpsbqwnle24qE" version="21.6.3" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:33:12.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5BBF0brJZAzF3nfXygWA" version="21.6.3" type="github" pages="20">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2600,16 +2600,16 @@
         <mxCell id="hToLLEldBJhPeoHGcNIt-0" value="低空业务中台" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#B3B3B3;fillColor=#89beb2;fontSize=16;verticalAlign=bottom;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="321.5" y="159" width="533" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="hToLLEldBJhPeoHGcNIt-10" value="低空航线&lt;br&gt;管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
+        <mxCell id="hToLLEldBJhPeoHGcNIt-10" value="低空&lt;br&gt;航线管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="457.0037062937062" y="179" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hToLLEldBJhPeoHGcNIt-7" value="二三维&lt;br&gt;地理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="722.0046153846154" y="179" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="hToLLEldBJhPeoHGcNIt-4" value="低空物联网平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
+        <mxCell id="hToLLEldBJhPeoHGcNIt-4" value="低空&lt;br&gt;物联网平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="324.5" y="179" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="hToLLEldBJhPeoHGcNIt-11" value="低空飞行&lt;br&gt;管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
+        <mxCell id="hToLLEldBJhPeoHGcNIt-11" value="低空&lt;br&gt;飞行管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontFamily=Helvetica;fontSize=16;fillColor=#c9ba83;fontColor=#FFFFFF;glass=0;shadow=0;" vertex="1" parent="wN92ehbLWwGZVkYpJjmd-1">
           <mxGeometry x="590.0037062937063" y="179" width="130" height="140" as="geometry" />
         </mxCell>
       </root>
