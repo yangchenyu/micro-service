@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T06:11:37.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6MFFDMHCejY55m66TqCg" version="21.6.3" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-07-22T06:31:11.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="U1N0ZhsNpn8BFYLsrvk-" version="21.6.3" type="github" pages="21">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3452,7 +3452,7 @@
             <mxPoint x="-713" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqQnHgUs0WzRa7uOWeTe-6" value="政务网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;glass=0;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+        <mxCell id="gqQnHgUs0WzRa7uOWeTe-6" value="政务外网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;glass=0;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
           <mxGeometry x="-843" y="668" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqQnHgUs0WzRa7uOWeTe-7" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" edge="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
@@ -3460,6 +3460,30 @@
             <mxPoint x="-719" y="656" as="sourcePoint" />
             <mxPoint x="-844" y="656" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-0" value="东&lt;br style=&quot;font-size: 18px;&quot;&gt;高&lt;br style=&quot;font-size: 18px;&quot;&gt;大&lt;br style=&quot;font-size: 18px;&quot;&gt;数&lt;br style=&quot;font-size: 18px;&quot;&gt;据&lt;br style=&quot;font-size: 18px;&quot;&gt;平&lt;br style=&quot;font-size: 18px;&quot;&gt;台" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0;fontSize=18;strokeWidth=1;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-843" y="31" width="120" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-2" value="二维、三维相关数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-801" y="400" width="67" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-3" value="低空场景感知数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-803" y="49" width="67" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-4" value="低空数据中台" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=bottom;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-348.5" y="236" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-5" value="低空物联网中台" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=bottom;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-684" y="497" width="974" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-7" value="低空AI中台" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=bottom;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-684" y="236" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-8" value="二三维地理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=bottom;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-10" y="236" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="73Ub9sikNtI_bdSkmTt1-9" value="低空物联感知设备（不同品牌无人机、载荷、机库）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=middle;fontStyle=1;fontSize=16;" vertex="1" parent="e8nLj4XZ3zr6smZ2cBTf-1">
+          <mxGeometry x="-684" y="597" width="974" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
