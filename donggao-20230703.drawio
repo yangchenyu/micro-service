@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:34:04.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rLtzN45IhL_cC8UuDE50" version="21.6.3" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:38:15.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AS6Jfy160UZGpQdei77A" version="21.6.3" type="github" pages="20">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2623,7 +2623,7 @@
         <mxCell id="Ow6pytZyWd8up4s1LYMY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;opacity=30;glass=0;fontSize=14;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
           <mxGeometry x="255" y="149" width="869" height="246" as="geometry" />
         </mxCell>
-        <mxCell id="Ow6pytZyWd8up4s1LYMY-3" value="低空业务中台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
+        <mxCell id="Ow6pytZyWd8up4s1LYMY-3" value="基础平台" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
           <mxGeometry x="1004" y="157" width="112" height="231" as="geometry" />
         </mxCell>
         <mxCell id="Ow6pytZyWd8up4s1LYMY-4" value="平&lt;br style=&quot;font-size: 18px;&quot;&gt;台&lt;br style=&quot;font-size: 18px;&quot;&gt;层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#14446a;gradientColor=none;strokeColor=#B3B3B3;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
@@ -2707,7 +2707,7 @@
         <mxCell id="Ow6pytZyWd8up4s1LYMY-77" value="驱&lt;br style=&quot;font-size: 18px;&quot;&gt;动&lt;br style=&quot;font-size: 18px;&quot;&gt;层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#14446a;gradientColor=none;strokeColor=#B3B3B3;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
           <mxGeometry x="197" y="407" width="43" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="Ow6pytZyWd8up4s1LYMY-78" value="低空IoT平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;glass=0;fontSize=16;fontStyle=1;opacity=30;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
+        <mxCell id="Ow6pytZyWd8up4s1LYMY-78" value="低空物联网平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;glass=0;fontSize=16;fontStyle=1;opacity=30;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
           <mxGeometry x="255" y="408" width="869" height="280" as="geometry" />
         </mxCell>
         <mxCell id="lk1qKHq2qfc4y4RL9eXW-0" value="二维引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d24b48;gradientColor=none;strokeColor=#d6b656;flipV=1;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="Ow6pytZyWd8up4s1LYMY-1">
