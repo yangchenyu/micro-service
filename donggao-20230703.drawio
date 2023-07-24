@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T10:06:33.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="y8WZCj7nl-m8X7VHZnpI" version="21.6.3" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-07-24T05:20:02.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="s5jEjHfLoymak0srgMgR" version="21.6.3" type="github" pages="23">
   <diagram name="总体" id="dKMGler52tXQYkUQm4DK">
     <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1861,8 +1861,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="XrE4WLCdA9gYSiYM9YjR" name="temp">
-    <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="XrE4WLCdA9gYSiYM9YjR" name="生命周期">
+    <mxGraphModel dx="1434" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2014,7 +2014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3HiM-9Hl-K_dL6d2vRwN" name="数据分析">
-    <mxGraphModel dx="2074" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
