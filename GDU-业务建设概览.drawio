@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T07:45:59.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="m4vc2xdP0--GXwuR0JZs" version="21.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-24T08:51:12.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QZrDxfTljlzacvwJkLst" version="21.6.3" type="github" pages="5">
   <diagram name="v1" id="sy28XgDb7c2ZBghyUJCW">
     <mxGraphModel dx="2234" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1198,10 +1198,10 @@
           <mxGeometry x="1152" y="239" width="423" height="51" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-99" value="电力行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;fillColor=#d24b48;strokeColor=#d6b656;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1146" y="34" width="130" height="177" as="geometry" />
+          <mxGeometry x="1494" y="-321" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-100" value="电力行业&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="34" width="130" height="50" as="geometry" />
+          <mxGeometry x="832" y="-56" width="150" height="95" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-102" value="消防应急解决方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;fillColor=#d24b48;strokeColor=#d6b656;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1283.5" y="34" width="130" height="177" as="geometry" />
@@ -1227,11 +1227,11 @@
         <mxCell id="mpk28ArGLWIMPExHKRGy-111" value="Uver云化业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="901.5" y="-331" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-112" value="低空资源中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1104.5" y="-325" width="300" height="44" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-112" value="低空预警中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="516" y="-4" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-113" value="低空资源中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="562.5" y="-325" width="300" height="44" as="geometry" />
+          <mxGeometry x="516" y="-53" width="300" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
