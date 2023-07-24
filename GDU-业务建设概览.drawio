@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T05:55:10.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j-4Pji2PlKiDz-B238XQ" version="21.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-24T07:41:39.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j0fyT-diV_uXU-PxTf7B" version="21.6.3" type="github" pages="5">
   <diagram name="v1" id="sy28XgDb7c2ZBghyUJCW">
     <mxGraphModel dx="2234" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1176,7 +1176,7 @@
         <mxCell id="mpk28ArGLWIMPExHKRGy-88" value="低空飞行&lt;br&gt;管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1013" y="158" width="98" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-92" value="智慧城市解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="mpk28ArGLWIMPExHKRGy-92" value="智慧城市解决方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;fillColor=#d24b48;strokeColor=#d6b656;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="-114" width="437" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-93" value="低空态势感知中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
@@ -1197,19 +1197,19 @@
         <mxCell id="mpk28ArGLWIMPExHKRGy-98" value="低空统一门户" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="-102" width="423" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-99" value="电力行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="mpk28ArGLWIMPExHKRGy-99" value="电力行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;fillColor=#d24b48;strokeColor=#d6b656;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="709.5" y="-114" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-100" value="电力行业&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="710.5" y="-114" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-102" value="消防应急解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="mpk28ArGLWIMPExHKRGy-102" value="消防应急解决方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;fillColor=#d24b48;strokeColor=#d6b656;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="847" y="-114" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-103" value="消防应急&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="847" y="-114" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-104" value="测绘行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="mpk28ArGLWIMPExHKRGy-104" value="测绘行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;fillColor=#d24b48;strokeColor=#d6b656;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="984" y="-114" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-105" value="测绘行业&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
@@ -1221,7 +1221,7 @@
         <mxCell id="mpk28ArGLWIMPExHKRGy-107" value="低空预警中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1148" y="-40" width="405.5" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-110" value="Uver云化业务" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;strokeColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="mpk28ArGLWIMPExHKRGy-110" value="Uver云化业务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;strokeColor=#d6b656;strokeWidth=3;fillColor=#d24b48;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="264" y="68" width="850" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-111" value="Uver云化业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
