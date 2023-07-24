@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T05:47:09.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g4nAF7FCJwWmigrtlcfs" version="21.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-24T05:53:35.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QnNrRcxCwgMm94A5M9xx" version="21.6.3" type="github" pages="5">
   <diagram name="v1" id="sy28XgDb7c2ZBghyUJCW">
     <mxGraphModel dx="2234" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1000,25 +1000,25 @@
           <mxGeometry x="266" y="157" width="180" height="231" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-5" value="应&lt;br style=&quot;font-size: 18px;&quot;&gt;用&lt;br style=&quot;font-size: 18px;&quot;&gt;层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#14446a;strokeColor=#B3B3B3;gradientColor=none;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="197" y="-95" width="43" height="219" as="geometry" />
+          <mxGeometry x="197" y="-120" width="43" height="244" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;opacity=30;fillColor=default;strokeColor=default;glass=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-96" width="870" height="226" as="geometry" />
+          <mxGeometry x="255" y="-122" width="870" height="252" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-7" value="用&lt;br style=&quot;font-size: 18px;&quot;&gt;户&lt;br style=&quot;font-size: 18px;&quot;&gt;端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#14446a;strokeColor=#B3B3B3;gradientColor=none;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="195" y="-182" width="43" height="75" as="geometry" />
+          <mxGeometry x="196" y="-203" width="43" height="75" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-8" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;opacity=30;fillColor=default;strokeColor=default;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="252" y="-180" width="872" height="73" as="geometry" />
+          <mxGeometry x="253" y="-201" width="872" height="73" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-9" value="WEB端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-169.5" width="250" height="50" as="geometry" />
+          <mxGeometry x="275" y="-190.5" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-10" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="568" y="-169.5" width="250" height="50" as="geometry" />
+          <mxGeometry x="569" y="-190.5" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-11" value="大屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="856.5" y="-170.5" width="250" height="50" as="geometry" />
+          <mxGeometry x="857.5" y="-191.5" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-12" value="低空数据中台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="452" y="157" width="180" height="231" as="geometry" />
@@ -1177,49 +1177,61 @@
           <mxGeometry x="1013" y="158" width="98" height="195" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-92" value="智慧城市解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="265" y="-86" width="437" height="177" as="geometry" />
+          <mxGeometry x="265" y="-114" width="437" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-93" value="低空态势感知中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="-18" width="80" height="80" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-93" value="低空态势感知中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="-46" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-94" value="低空资源共享中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="526.5" y="-17" width="80" height="80" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-94" value="低空资源共享中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="526.5" y="-45" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-95" value="低空监测预警中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="613" y="-17" width="80" height="80" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-95" value="低空监测预警中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="-45" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-96" value="低空运行管理中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="-17" width="80" height="80" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-96" value="低空运行管理中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-45" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-97" value="低空空域管理中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-17" width="80" height="80" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-97" value="低空空域管理中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-45" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpk28ArGLWIMPExHKRGy-98" value="低空统一门户" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#d24b48;strokeColor=#d6b656;gradientColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="-74" width="423" height="51" as="geometry" />
+        <mxCell id="mpk28ArGLWIMPExHKRGy-98" value="低空统一门户" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="-102" width="423" height="51" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-99" value="电力行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="709.5" y="-86" width="130" height="177" as="geometry" />
+          <mxGeometry x="709.5" y="-114" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-100" value="电力行业&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="710.5" y="-86" width="130" height="50" as="geometry" />
+          <mxGeometry x="710.5" y="-114" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-102" value="消防应急解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="847" y="-86" width="130" height="177" as="geometry" />
+          <mxGeometry x="847" y="-114" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-103" value="消防应急&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="847" y="-86" width="130" height="50" as="geometry" />
+          <mxGeometry x="847" y="-114" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-104" value="测绘行业解决方案" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="984" y="-86" width="130" height="177" as="geometry" />
+          <mxGeometry x="984" y="-114" width="130" height="177" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-105" value="测绘行业&lt;br&gt;业务系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ddd38c;strokeColor=#82b366;gradientColor=none;fontSize=16;fontColor=default;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="984" y="-86" width="130" height="50" as="geometry" />
+          <mxGeometry x="984" y="-114" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-106" value="低空资源中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="709.5" y="-32" width="405.5" height="44" as="geometry" />
+          <mxGeometry x="709.5" y="-60" width="405.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="mpk28ArGLWIMPExHKRGy-107" value="低空预警中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="709.25" y="16" width="405.5" height="44" as="geometry" />
+          <mxGeometry x="709.25" y="-12" width="405.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="mpk28ArGLWIMPExHKRGy-110" value="Uver云化业务" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;verticalAlign=bottom;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="264" y="68" width="850" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="mpk28ArGLWIMPExHKRGy-111" value="Uver云化业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="608" y="68" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpk28ArGLWIMPExHKRGy-112" value="低空资源中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="811" y="74" width="300" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="mpk28ArGLWIMPExHKRGy-113" value="低空资源中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddd38c;gradientColor=none;strokeColor=#82b366;flipV=1;fontSize=16;fontStyle=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="269" y="74" width="300" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
